@@ -1,6 +1,6 @@
-final url = 'http://192.168.29.239:3000/';
-final registration = url + "registration";
+final url = 'http://192.168.1.20:3000/';
+final registration = url + "register";
 final login = url + 'login';
-final addtodo = url + 'storeTodo';
+final addtodo = url + 'createTodo';
 final getToDoList = url + 'getUserTodoList';
 final deleteTodo = url + 'deleteTodo';
