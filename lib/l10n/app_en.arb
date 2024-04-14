@@ -1,0 +1,8 @@
+{
+  "emailSignIn": "Email Sign-In",
+  "emailHint": "Email",
+  "passwordHint": "Password",
+  "enterProperInfo": "Enter Proper Info",
+  "loginButton": "Log In",
+  "createNewAccount": "Create a new Account..! Sign Up"
+}

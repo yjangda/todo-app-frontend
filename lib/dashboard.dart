@@ -20,7 +20,6 @@ class _DashboardState extends State<Dashboard> {
   List? items;
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     Map<String, dynamic> jwtDecodedToken = JwtDecoder.decode(widget.token);
     userId = jwtDecodedToken['_id'];
